@@ -323,3 +323,4 @@
 20231228	11:14:06	f8d55930-229d-47b1-bd78-4958fea08d58	POST	http://localhost:5173	/api/auth/login
 20231228	11:22:34	64d1445f-bec9-45ec-b17b-7f4ae8bab4e1	OPTIONS	http://localhost:5173	/api/auth/login
 20231228	11:22:34	05d3ce5d-c733-48cf-8a19-133a4cead237	POST	http://localhost:5173	/api/auth/login
+20231228	13:51:03	7ec5d270-c449-4d1d-a4a0-7b2c8d9318b4	POST	undefined	/api/auth/login
